@@ -8,7 +8,7 @@ Project based on the Udemy course [Advanced CSS and Sass: Flexbox, Grid, Animati
 
 To run the project just open the index.html file with your preferred browser.
 
-Deployed with GitHub pages. You can view the [live version here](https://jorgeyza.github.io/natours/).
+Deployed with GitHub pages. You can view the [live version here](https://trillo.jorgeyza.com/).
 
 ## 🧞 Commands
 
